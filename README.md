@@ -6,7 +6,7 @@
 * **Tools Used:** Python, requests, BeautifulSoup, pandas
 
  2. Setup Instructions
-1. Clone this repo: `git clone []`
+1. Clone this repo: `git clone [https://github.com/fibha-dev/web-scraping-project.git]`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run script: `python scraper.ipynb`
 
